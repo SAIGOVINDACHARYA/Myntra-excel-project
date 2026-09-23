@@ -1,5 +1,7 @@
 📊 Myntra Fashion Analysis – Insights Through Excel
+
 Overview
+
 This project presents a structured data cleaning, analysis, and retrieval workflow applied to Myntra’s fashion dataset using Microsoft Excel. It demonstrates how raw e-commerce data can be transformed into actionable insights for better decision-making in online retail.
 
 🔑 Key Highlights
@@ -32,6 +34,7 @@ Used INDEX-MATCH for precise discount price retrieval.
 Implemented nested XLOOKUP for dynamic column lookups.
 
 📈 Insights
+
 A significant portion of products carry discounts above 50%, reflecting strategic pricing.
 
 Size M dominates availability, aligning with consumer demand.
@@ -39,9 +42,11 @@ Size M dominates availability, aligning with consumer demand.
 Clean datasets combined with advanced Excel functions enable optimized inventory planning and enhanced customer experience.
 
 🛠 Tools & Techniques
+
 Microsoft Excel (Formulas, Functions, Data Cleaning, Lookup)
 
 Functions used: AVERAGEIF, COUNTIF, IF, INDEX-MATCH, VLOOKUP, XLOOKUP
 
 🎯 Outcome
+
 This project highlights how Excel-based analytics can uncover hidden trends in fashion e-commerce, supporting business strategy, pricing decisions, and inventory management.
