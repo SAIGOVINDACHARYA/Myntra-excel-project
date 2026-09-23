@@ -1,2 +1,1 @@
-# Myntra-excel-project
-excel project
+# Myntra-excel-data analysis
